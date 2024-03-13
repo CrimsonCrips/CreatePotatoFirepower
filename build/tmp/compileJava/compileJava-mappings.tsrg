@@ -1,0 +1,2 @@
+com/crimsoncrips/potatofirepower/mixin/PotatoMixin getAllSupportedProjectiles ()Ljava/util/function/Predicate; m_6437_
+com/crimsoncrips/potatofirepower/mixin/PotatoMixin getDefaultProjectileRange ()I m_6615_
