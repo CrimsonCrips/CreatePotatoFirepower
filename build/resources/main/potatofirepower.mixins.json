@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.crimsoncrips.potatofirepower.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "PotatoFirepower.refmap.json",
+  "mixins": [
+    "PotatoMixin",
+    "PotatoProjectileMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
