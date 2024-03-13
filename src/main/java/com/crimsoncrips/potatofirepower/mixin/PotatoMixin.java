@@ -1,5 +1,6 @@
 package com.crimsoncrips.potatofirepower.mixin;
 
+import com.crimsoncrips.potatofirepower.ReflectionUtil;
 import com.simibubi.create.AllEntityTypes;
 import com.simibubi.create.Create;
 import com.simibubi.create.CreateClient;
